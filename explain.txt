@@ -1,2 +1,1 @@
 This text file is a test for git.
-Ok, this sentence will be deleted.
