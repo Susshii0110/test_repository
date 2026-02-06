@@ -1,1 +1,2 @@
 This text file is a test for git.
+This sentence is only in sub branch.
