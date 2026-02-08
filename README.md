@@ -4,3 +4,4 @@ This text is for pull on the main branch.
 Remote repository changes.
 Local repository changes.
 Local repository changes (existed).
+Remote repository changes2.
